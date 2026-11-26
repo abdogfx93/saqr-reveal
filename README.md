@@ -1,6 +1,6 @@
 # SAQR: Scroll Unveiling
 
-By @abdomahrous.design on Instagram. Download all the files in this folder (index.html, hero-1.js, hero-2.js, orbit-1.js, orbit-2.js) into one folder and open `index.html` in your browser, then scroll (or drag the dial). Live demo: https://abdogfx92.github.io/nauta-liquid/saqr/
+By @abdomahrous.design on Instagram. Download all the files in this folder (index.html, hero-1.js, hero-2.js, orbit-1.js, orbit-2.js) into one folder and open `index.html` in your browser, then scroll (or drag the dial). Live demo: https://abdogfx93.github.io/saqr-reveal/
 
 ## The prompt
 
